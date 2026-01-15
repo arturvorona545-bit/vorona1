@@ -85,6 +85,6 @@ print(type([1, 2]))
 counter = 1
 print(counter)
 
+
 counter = 11
 print(counter)
-
