@@ -2,3 +2,5 @@
 # Затем просто выведи значение этой переменной на экран.
 my_city = "Krasnodar 1123"
 print(my_city)
+my_city = "Krasnodar 1123"
+print(my_city)
